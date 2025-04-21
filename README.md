@@ -1,1 +1,1 @@
-[![Presentation](images/marr_pic.jpg)](pdfs/ProjMarr_slides.pdf)
+[![Presentation](images/marr_pic.jpg)](project_1.pdf)
