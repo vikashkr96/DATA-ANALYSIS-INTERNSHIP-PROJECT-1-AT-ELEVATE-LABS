@@ -1,1 +1,1 @@
-(images/slide1.jpg)
+(project_1.png)
